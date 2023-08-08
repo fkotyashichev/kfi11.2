@@ -1,0 +1,6 @@
+venv
+venv/
+/debug.log
+.idea/
+*.pyc
+*.log
